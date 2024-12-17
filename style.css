@@ -196,7 +196,7 @@
   .generate-form .controls {
     height: 40px;
     margin-top: 15px;
-    justify-content: end;
+    justify-content: center;
     align-items: center;
   }
 
